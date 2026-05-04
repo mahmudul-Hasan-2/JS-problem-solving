@@ -40,8 +40,8 @@ Created a high-performance Arrow Function that takes an object, destructures it 
 
 - [x] **ES6+ Fundamentals** (Destructuring, Spread/Rest) - _100% Mastered_
 - [x] **Modern Syntax** (Arrow Functions, Template Literals) - _100% Mastered_
-- [x] **Functional Logic** (Array methods & Filters) - _In Progress_
-- [ ] **Asynchronous JS** (Promises, Async/Await) - _Upcoming Goal 🎯_
+- [x] **Functional Logic** (Array methods & Filters) - _100% Mastered_
+- [x] **Asynchronous JS** (Promises, Async/Await) - _100% Mastered_
 
 ---
 
